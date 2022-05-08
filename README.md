@@ -87,6 +87,11 @@
       - 利用規約に問題があるため、APIを使用することができず、何ヶ月も開発が止まったことが何回もあります。その度に、問題がなさそうな新たなAPIやサービスを見つけることができているので、現在はなんとか開発が動いています。
     - 推薦アルゴリズムの選定。
       - ライトノベルは年間２０００冊ほど出ており、過去10年分だけをデータベースに登録したとしても、2万冊もの数になります。この数のアイテムについて学習し、即座にレスポンスを返すAPIをスクラッチで開発することはできませんでした。何かいいAPIはないかと探しているところに、近傍探索というアルゴリズムを知り、spotify の annoy というライブラリに出会ったことで、この問題は解決しました。
+  - 進捗
+      - デザイン案
+        - ![S__6668290](https://user-images.githubusercontent.com/53688020/167295088-b480fc60-8e8c-4f05-a46b-73a1db6e5988.jpg)
+        - [https://www.figma.com/file/zCxLalf7K7Q00WC66BOqTe/recommender?node-id=0%3A1](https://www.figma.com/file/zCxLalf7K7Q00WC66BOqTe/recommender?node-id=0%3A1)
+      - 
 - 2022年春: ゲーム「7 days to die」のマルチサーバーと管理用サーバーの構築
   - ソースコード
     - [https://github.com/nntto/7dtd_discordbot](https://github.com/nntto/7dtd_discordbot)
