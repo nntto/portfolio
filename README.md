@@ -91,7 +91,13 @@
       - デザイン案
         - ![S__6668290](https://user-images.githubusercontent.com/53688020/167295088-b480fc60-8e8c-4f05-a46b-73a1db6e5988.jpg)
         - [https://www.figma.com/file/zCxLalf7K7Q00WC66BOqTe/recommender?node-id=0%3A1](https://www.figma.com/file/zCxLalf7K7Q00WC66BOqTe/recommender?node-id=0%3A1)
-      - 
+      - トップページ
+        - ![localhost_8080_](https://user-images.githubusercontent.com/53688020/167296445-e7f03212-8c94-41a2-b44d-3658f4c7bf84.png)
+      - 書籍ページ
+        - ![localhost_8080_media_media_id=26](https://user-images.githubusercontent.com/53688020/167296456-d261dd6e-3e8c-49d4-be08-dae99293ef24.png)
+      - シリーズページ
+        - ![localhost_8080_series_series_id=755](https://user-images.githubusercontent.com/53688020/167296473-4196dc74-af4c-478c-96ba-c3aecb6741b5.png)
+
 - 2022年春: ゲーム「7 days to die」のマルチサーバーと管理用サーバーの構築
   - ソースコード
     - [https://github.com/nntto/7dtd_discordbot](https://github.com/nntto/7dtd_discordbot)
