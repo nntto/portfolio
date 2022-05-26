@@ -89,6 +89,11 @@
       - ライトノベルは年間２０００冊ほど出ており、過去10年分だけをデータベースに登録したとしても、2万冊もの数になります。この数のアイテムについて学習し、即座にレスポンスを返すAPIをスクラッチで開発することはできませんでした。何かいいAPIはないかと探しているところに、近傍探索というアルゴリズムを知り、spotify の annoy というライブラリに出会ったことで、この問題は解決しました。
   - 進捗
       - デザイン案
+        - courseraのグーグルUXデザイン、コース1~5を聴講し、作成しました。
+        - <img width="662" alt="スクリーンショット 2022-05-26 13 46 34" src="https://user-images.githubusercontent.com/53688020/170417918-babd3cfc-e3c6-470f-9c88-37533bb9e33e.png">
+        - <img width="630" alt="スクリーンショット 2022-05-26 13 46 57" src="https://user-images.githubusercontent.com/53688020/170417965-4535a2d7-74e9-421a-bcb8-0f6f6cd4884e.png">
+        - <img width="630" alt="スクリーンショット 2022-05-26 13 47 16" src="https://user-images.githubusercontent.com/53688020/170417991-37054d19-1882-431a-b59e-b7b328084ec5.png">
+        - <img width="619" alt="スクリーンショット 2022-05-26 13 47 29" src="https://user-images.githubusercontent.com/53688020/170418016-39e36f46-ee10-496a-a59f-e6a85bc273bb.png">
         - ![S__6668290](https://user-images.githubusercontent.com/53688020/167295088-b480fc60-8e8c-4f05-a46b-73a1db6e5988.jpg)
         - [https://www.figma.com/file/zCxLalf7K7Q00WC66BOqTe/recommender?node-id=0%3A1](https://www.figma.com/file/zCxLalf7K7Q00WC66BOqTe/recommender?node-id=0%3A1)
       - トップページ
