@@ -4,11 +4,12 @@
 - yahoo
   - 8月下旬2週間
 - DeNAハッカソン
-  - 9月中旬
+  - 9月上旬2日間
 - cookpad
   - 2022年9月14日-2022年9月16日
   - [実装コード，デモ，発表資料](https://github.com/nntto/food_concierge)
-  - ![image](https://user-images.githubusercontent.com/53688020/191407189-cd962414-5431-4f83-b588-305a64b1932c.png)
+    ![S__9641987](https://user-images.githubusercontent.com/53688020/191408743-6ddcf687-cc62-4bd3-84be-2fb2e504fb46.jpg)
+
   
 # 過去経歴・作品紹介
 - 2019年夏: スクレイピングシステムの開発
