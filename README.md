@@ -1,12 +1,14 @@
 # インターン参加経験
 - brainpad
-  - 2022年8月1日ー2022年8月5日
+  - 2022年8月1日-2022年8月5日
 - yahoo
   - 8月下旬2週間
 - DeNAハッカソン
   - 9月中旬
-- (予定)
-  - 3日間
+- cookpad
+  - 2022年9月14日-2022年9月16日
+  - ![image](https://user-images.githubusercontent.com/53688020/191407189-cd962414-5431-4f83-b588-305a64b1932c.png)
+  - [実装コード，デモ，発表資料](https://github.com/nntto/food_concierge)
   
 # 過去経歴・作品紹介
 - 2019年夏: スクレイピングシステムの開発
